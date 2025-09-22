@@ -1,2 +1,3 @@
 # metrica_project
-This repo is for learning GIT.
+This repo is for learning GIT
+we want to learn git.
